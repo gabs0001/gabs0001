@@ -1,10 +1,10 @@
-## Olá, seja bem vindo ao meu Github!
+# Olá, seja bem vindo ao meu Github!
 
-# 🚀 Sou um estudante de programação apaixonado por tecnologia e inovação. Estou sempre em busca de desafios para aprender e crescer!
+## 🚀 Sou um estudante de programação apaixonado por tecnologia e inovação. Estou sempre em busca de desafios para aprender e crescer!
 
-# 💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP, de forma EAD
+## 💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP, de forma EAD
 
-## 🌐 Redes Sociais
+# 🌐 Redes Sociais
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-luiz-17bb32218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -12,7 +12,7 @@
   <a href = "mailto:silvagab566@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## 📟 Algumas das tecnologias que mais gosto de utilizar
+# 📟 Algumas das tecnologias que mais gosto de utilizar
 
 
 <div style="display: inline_block"><br>
@@ -34,15 +34,15 @@
   
 </div>
 
-## 🧑‍💻 Sobre Mim
+# 🧑‍💻 Sobre Mim
 
 
-# 📌 Faço musculação 5 vezes por semana
-# 📌 Adoro maratonar séries, filmes e animes
-# 📌 Sou viciado em tatuagens
-# 📌 Amo ouvir música enquanto estou programando e no dia a dia
+## 📌 Faço musculação 5 vezes por semana
+## 📌 Adoro maratonar séries, filmes e animes
+## 📌 Sou viciado em tatuagens
+## 📌 Amo ouvir música enquanto estou programando e no dia a dia
 
-## 📈 Github Stats
+# 📈 Github Stats
 
 
 <div align="center">
