@@ -4,6 +4,8 @@
 
 ### 💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP, de forma EAD
 
+### 🎯 Estou em busca de estágio na área de desenvolvimento, preferencialmente web ou front-end
+
 <br/>
 
 # 🌐 Redes Sociais
