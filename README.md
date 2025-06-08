@@ -1,3 +1,3 @@
 ## Olá! 👋
 
-<a href="https://meulink.com" style="background-color:blue;color:white;padding:10px 20px;border-radius:5px;text-decoration:none;">Clique Aqui</a>
+<a href="https://www.linkedin.com/in/gabriel-luiz-17bb32218" style="padding: 20px; background-color: blue;">Linkedin</a>
