@@ -56,6 +56,7 @@
   <a href="https://github.com/gabs0001/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabs0001&theme=merko&show_icons=true&hide_border=false&count_private=true" />
   </a>
+  
   <a href="https://github.com/gabs0001/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabs0001&layout=compact&langs_count=8&card_width=320&theme=merko" />
   </a>
