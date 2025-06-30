@@ -4,7 +4,7 @@
 
 ### 💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP, de forma EAD
 
-### 🎯 Estou em busca de estágio na área de desenvolvimento, preferencialmente web ou front-end
+### 🎯 Estou em busca de estágio na área de desenvolvimento, preferencialmente Front-End Web ou Full-Stack
 
 <br/>
 
@@ -21,17 +21,17 @@
 # 📟 Algumas das tecnologias que mais gosto de utilizar
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="gabriel-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="gabriel-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="gabriel-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="gabriel-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="gabriel-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   
   <img align="center" alt="gabriel-react-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
   <img align="center" alt="gabriel-next-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  
-  <img align="center" alt="gabriel-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="gabriel-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="gabriel-node-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
