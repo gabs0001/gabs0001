@@ -6,6 +6,8 @@
 
 ### 🎯 Estou em busca de estágio na área de desenvolvimento, preferencialmente Front-End, Web ou Full-Stack
 
+🔗 **Acesse minha página de projetos:** [minhapagina-dusky.vercel.app](https://minhapagina-dusky.vercel.app)
+
 <br/>
 
 # 🌐 Redes Sociais
