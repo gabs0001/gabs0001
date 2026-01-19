@@ -2,7 +2,7 @@
 
 ### 🚀 Sou um estudante de programação apaixonado por tecnologia e inovação. Estou sempre em busca de desafios para aprender e crescer!
 
-### 💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP, de forma EAD
+### 💻 Atualmente estou cursando o 3° Semestre em Análise e Desenvolvimento de Sistemas na FIAP, de forma EAD
 
 ### 🎯 Estou em busca de estágio na área de desenvolvimento, preferencialmente Front-End, Web ou Full-Stack
 
