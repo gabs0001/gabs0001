@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Luiz! 👋
 
-### 🚀 Desenvolvedor em evolução focando em construir soluções digitais de ponta a ponta, unindo design intuitivo à arquitetura robusta.
+### 🚀 Desenvolvedor Full-Stack focado em construir soluções digitais robustas de ponta a ponta, unindo design intuitivo à arquitetura escalável.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-luiz-17bb32218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -21,35 +21,48 @@
 - 🏋️‍♂️ Musculação ativa (5x por semana).
 - 🎨 Entusiasta de tatuagens (Black & Grey realista).
 - 🎧 Movido a música no dia a dia (Bedroom Pop, R&B e Lo-fi nas sessões de foco).
-- 🎬 Consumidor de narrativas complexas, desde animes e doramas até cinema e séries.
+- 🎬 Consumidor de narrativas complexas (Animes e Doramas).
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
+<div align="center">
+
 | Categoria | Tecnologias que utilizo no ecossistema |
 | :--- | :--- |
-| **Front-End** | `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript` `React` `Next.js` `Tailwind CSS` |
-| **Back-End & Infra** | `Java (17+)` `Spring Boot` `Node.js` `APIs RESTful` |
-| **Bancos de Dados** | `SQL` `Oracle` |
-| **Design & Qualidade** | `Figma (UI/UX Design)` `Acessibilidade Web (WCAG)` `Testes Unitários` |
-| **Ferramentas** | `Git` `GitHub` `Postman` `Linear` `Scrum / Kanban` |
+| **Front-End** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind CSS"/> |
+| **Back-End** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring Boot"/> **APIs RESTful** |
+| **Bancos de Dados** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30" title="Oracle"/> **SQL** |
+| **Design & Ferramentas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma (UI/UX)"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" title="Postman"/> **Scrum** |
+
+</div>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
+> [!IMPORTANT]
+> ### 🧠 [NovaLearn — Plataforma de Cursos Online](https://github.com/gabs0001)
+> Aplicação técnica de alto nível estruturada em **Java 21 e Spring Boot 3.4.3**, utilizando uma abordagem **DDD pragmática combinada com Clean Architecture**. O projeto conta com autenticação segura via **JWT + Refresh Token rotacionado**, controle completo de progresso acadêmico, emissão de certificados, eventos de domínio internos e uma estratégia de testes madura (unitários, de serviços e E2E). O front-end está sendo desenvolvido de forma integrada utilizando **Next.js, TypeScript, Tailwind CSS, Shadcn e TanStack**.
+
 > [!TIP]
-> ### 💳 [Fintech Application](https://github.com/gabs0001/Fintech_Backend)
-> Sistema completo de gestão financeira pessoal de ponta a ponta. Desenvolvido com arquitetura **Java / Spring Boot** no back-end e interface moderna responsiva em **Next.js** e **Tailwind CSS** no front-end. Conta com cobertura sólida de **testes automatizados**.
+> ### 💳 [Fintech — Gestão Financeira Pessoal (Backend)](https://github.com/gabs0001/Fintech_Backend)
+> API RESTful robusta desenvolvida com **Java e Spring Boot** para controle e gerenciamento de finanças pessoais. O sistema implementa arquitetura em camadas, persistência de dados com **Spring Data JPA / Hibernate**, tratamento global de exceções e uma cobertura sólida de **testes automatizados (unitários e de integração)** para garantir a integridade das regras de negócio e das transações financeiras.
+
+> [!TIP]
+> ### 💰 [Fintech — Gestão Financeira Pessoal (Frontend)](https://github.com/gabs0001/Fintech_Frontend)
+> Interface de usuário (*client-side*) interativa para gerenciamento financeiro completo, atualmente passando por atualizações contínuas de evolução. Desenvolvida sob o ecossistema **Next.js e TypeScript**, a aplicação consome a API RESTful em Spring Boot através do Axios. Conta com painéis de Dashboard protegidos por rotas privadas de autenticação, telas de fluxo de caixa para receitas e despesas, monitoramento de metas financeiras e portfólio de investimentos estruturado via **Tailwind CSS** com foco em usabilidade (UX).
+
+ 
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabs0001&theme=tokyonight&show_icons=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabs0001&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.com/api?username=gabs0001&theme=tokyonight&show_icons=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.com/api/top-langs?username=gabs0001&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
