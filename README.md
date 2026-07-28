@@ -39,7 +39,7 @@
 ## 🚀 Projetos em Destaque
 
 > [!IMPORTANT]
-> ### 🧠 [NovaLearn — Plataforma de Cursos Online](https://github.com/gabs0001)
+> ### 🧠 [NovaLearn — Plataforma de Cursos Online](https://github.com/gabs0001/NovaLearn_BackEnd)
 > Aplicação técnica de alto nível estruturada em **Java 21 e Spring Boot 3.4.3**, utilizando uma abordagem **DDD pragmática combinada com Clean Architecture**. O projeto conta com autenticação segura via **JWT + Refresh Token rotacionado**, controle completo de progresso acadêmico, emissão de certificados, eventos de domínio internos e uma estratégia de testes madura (unitários, de serviços e E2E). O front-end está sendo desenvolvido de forma integrada utilizando **Next.js, TypeScript, Tailwind CSS, Shadcn e TanStack**.
 
 > [!TIP]
