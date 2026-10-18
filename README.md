@@ -4,11 +4,10 @@
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-luiz-17bb32218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/gabs__0001" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/gabriel__luiz001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:silvagab566@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://minhapagina-dusky.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Meu%20Portfólio-%234F46E5?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </div>
-
 ---
 
 ## 🧑‍💻 Sobre Mim
