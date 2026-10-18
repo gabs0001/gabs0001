@@ -40,11 +40,11 @@
 
 | Categoria | Tecnologias e Ferramentas que utilizo no dia a dia |
 | :--- | :--- |
-| **UX/UI & Product Design** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma (UI/UX)"/> **Prototipagem de Alta Fidelidade**, **Design Systems**, **Wireframing**, **Design Thinking**, **Mapeamento de Jornadas**, **WCAG (Acessibilidade)** |
-| **Front-End & Web** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/> **Nuvemshop CLI** |
-| **Integração & Processos** | **Omie ERP**, **Agendor CRM**, **Brevo (E-mail Marketing)**, **Pluga (Webhooks/APIs)**, **Google Workspace** |
-| **Back-End & Dados** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring Boot"/> **APIs RESTful**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30" title="Oracle"/> **SQL** |
-| **Ferramentas & Metodologias** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" title="Postman"/> **Scrum / Agilidade** |
+| **UX/UI & Product Design** | Figma, Prototipagem de Alta Fidelidade, Design Systems, Wireframing, Design Thinking, Mapeamento de Jornadas, WCAG (Acessibilidade) |
+| **Front-End & Web** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, Nuvemshop CLI |
+| **Integração & Processos** | Omie ERP, Agendor CRM, Brevo (E-mail Marketing), Pluga (Webhooks/APIs), Google Workspace |
+| **Back-End & Dados** | Java, Spring Boot, APIs RESTful, SQL, Oracle |
+| **Ferramentas & Metodologias** | Git, GitHub, Postman, Scrum / Agilidade |
 
 ---
 
