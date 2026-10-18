@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Luiz! 👋
 
-### 🚀 Desenvolvedor Full-Stack focado em construir soluções digitais robustas de ponta a ponta, unindo design intuitivo à arquitetura escalável.
+### 🚀 Desenvolvedor Front-End & UX/UI Designer | Focado em criar experiências digitais intuitivas, interfaces modernas e automação de processos de negócios.
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-luiz-17bb32218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -8,30 +8,43 @@
   <a href="mailto:silvagab566@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://minhapagina-dusky.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Meu%20Portfólio-%234F46E5?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </div>
+
 ---
 
 ## 🧑‍💻 Sobre Mim
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas na FIAP** (3° Semestre).
-- 🎯 Buscando ativamente oportunidades de **Estágio** em Desenvolvimento **Front-End, Web ou Full-Stack**.
-- 🦾 Apaixonado por engenharia de software, usabilidade (UI/UX) e cultura de testes automatizados.
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas na FIAP** (3º Semestre).
+- 💼 **Estagiário de TI, Processos & UX no Grupo Prime (PPG, Kaiambá, PGS)**: Atuando na reestruturação da presença digital (rebranding e e-commerce B2C), integração de ecossistemas (ERP/CRM/Automação) e otimização de fluxos corporativos.
+- 🎨 Apaixonado por **UI/UX Design, Design de Produto e Front-End**, unindo prototipagem em alta fidelidade no Figma a código limpo, responsivo e acessível.
+- 🔄 Fascinado pela interseção entre **Design, Dados e Engenharia**: criando automações de processos, conectando APIs e trazendo eficiência para fluxos operacionais.
 
 ### ⚡ Além das linhas de código:
 - 🏋️‍♂️ Musculação ativa (5x por semana).
-- 🎨 Entusiasta de tatuagens (Black & Grey realista).
-- 🎧 Movido a música no dia a dia (Bedroom Pop, R&B e Lo-fi nas sessões de foco).
-- 🎬 Consumidor de narrativas complexas (Animes e Doramas).
+- 🎨 Entusiasta de arte e tatuagens (Black & Grey, Realista, Oriental, Old School etc).
+- 🎧 Movido a música no dia a dia (Bedroom Pop, R&B, Lo-fi, Rock, Rap/Hip-Hop etc).
+- 🎬 Consumidor de narrativas complexas (Animes, Séries, Filmes e Doramas).
+
+---
+
+## 💼 Experiência Profissional Atual
+
+### **Estagiário de TI, Processos & UX/UI** — *Grupo Prime (PPG & Kaiambá)*
+*08/2026 – Presente*
+- **Design de Produto & Front-End:** Construção do protótipo/MVP no Figma e customização web via Nuvemshop CLI (HTML, CSS, JavaScript) para a nova experiência digital e e-commerce B2B da Kaiambá Embalagens.
+- **Arquitetura de Integração & Automação:** Mapeamento de processos e planejamento da integração via APIs/Webhooks (Pluga), conectando Omie ERP, Agendor CRM e Brevo para automação da régua de relacionamento de clientes.
+- **Governança & Suporte de TI:** Gestão de ativos (dispositivos/acessos), padronização no Google Workspace e resolução de chamados operacionais.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-| Categoria | Tecnologias que utilizo no ecossistema |
+| Categoria | Tecnologias e Ferramentas que utilizo no dia a dia |
 | :--- | :--- |
-| **Front-End** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind CSS"/> |
-| **Back-End** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring Boot"/> **APIs RESTful** |
-| **Bancos de Dados** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30" title="Oracle"/> **SQL** |
-| **Design & Ferramentas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma (UI/UX)"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" title="Postman"/> **Scrum** |
+| **UX/UI & Product Design** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma (UI/UX)"/> **Prototipagem de Alta Fidelidade**, **Design Systems**, **Wireframing**, **Design Thinking**, **Mapeamento de Jornadas**, **WCAG (Acessibilidade)** |
+| **Front-End & Web** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/> **Nuvemshop CLI** |
+| **Integração & Processos** | **Omie ERP**, **Agendor CRM**, **Brevo (E-mail Marketing)**, **Pluga (Webhooks/APIs)**, **Google Workspace** |
+| **Back-End & Dados** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring Boot"/> **APIs RESTful**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30" title="Oracle"/> **SQL** |
+| **Ferramentas & Metodologias** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" title="Postman"/> **Scrum / Agilidade** |
 
 ---
 
@@ -53,10 +66,8 @@
 
 ## 🎯 Foco de Evolução Contínua
 
-Atualmente, dedico meus blocos de código e estudos diários para:
-- **Evolução do ecossistema NovaLearn**, priorizando boas práticas de design de software no backend e componentização avançada no frontend.
-- **Aprofundamento em DevOps & Arquitetura**, estudando a conteinerização de aplicações com **Docker** e a transição para arquiteturas de **Microsserviços**.
-- **UX/UI Design Avançado**, refinando habilidades de experiência do usuário e prototipagem de alta fidelidade diretamente no **Figma**.
-- **Versionamento Avançado**, explorando fluxos de trabalho e boas práticas com **Git** para ambientes colaborativos.
-
----
+Atualmente, dedico meus blocos de código, trabalho e estudos diários para:
+- **Refinamento em UX/UI & Product Design**: aperfeiçoando métodos de pesquisa, arquitetura de informação, testes de usabilidade e prototipagem avançada no Figma.
+- **Evolução Front-End & Ecossistemas Web**: aprofundando em Next.js, arquitetura de componentes escaláveis e customização de plataformas e-commerce/web.
+- **Automação de Processos & Dados**: conectando ferramentas corporativas (ERP, CRM, Marketing) e criando fluxos de dados eficientes para otimização de negócios.
+- **Práticas de Engenharia**: mantendo ativa a base de arquitetura de software, consumo de APIs e metodologias ágeis.
